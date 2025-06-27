@@ -28,4 +28,4 @@ This repository contains study notes, concept summaries, and simulation files ba
 ---
 ## 🏆 Certificate
 
-![Udemy Certificate](certificate/pscad_certificate.jpg)
+![Udemy Certificate](Certificate/pscad_certificate.jpg)
